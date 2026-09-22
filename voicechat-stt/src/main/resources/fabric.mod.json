@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "voicestt",
+  "version": "${version}",
+  "name": "Voice Chat STT",
+  "description": "Push-to-talk speech-to-text that types into Minecraft chat.",
+  "authors": ["you"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.voicestt.VoiceSttClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
