@@ -1,4 +1,4 @@
-package com.example.voicestt;
+package io.github.voicestt;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;

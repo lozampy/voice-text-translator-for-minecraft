@@ -7,7 +7,7 @@
   "authors": ["you"],
   "environment": "client",
   "entrypoints": {
-    "client": ["com.example.voicestt.VoiceSttClient"]
+    "client": ["io.github.voicestt.VoiceSttClient"]
   },
   "depends": {
     "fabricloader": ">=0.16.0",
