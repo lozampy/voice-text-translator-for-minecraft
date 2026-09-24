@@ -1,4 +1,4 @@
-package com.example.voicestt;
+package io.github.voicestt;
 
 import org.vosk.Model;
 import org.vosk.Recognizer;

@@ -1,4 +1,4 @@
-package com.example.voicestt;
+package io.github.voicestt;
 
 import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
 import net.minecraft.client.option.KeyBinding;
